@@ -5,3 +5,8 @@ Bu depodaki veriler ve kodların bir kısmı YAEM R Çalıştayı'nda kullanılm
 Bireysel Emeklilik Sistemi ile ilgili veriler Emeklilik Gözetim Merkezi'nden alınmıştır. http://www.egm.org.tr/
 
 Daha fazla bilgi ve R örneği için http://rbosphorus.org/ adresini ziyaret edebilirsiniz. 
+
+Çalıştay Eğitmenleri
+
+Mustafa Baydoğan
+Berk Orbay
